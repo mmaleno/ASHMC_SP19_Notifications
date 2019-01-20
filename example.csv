@@ -1,4 +1,4 @@
-Example1,maxwellmaleno@hotmail.com,Example1 SP19 Remaining Funds,"""Hello Example1 Presidents,
+Example1,"fakeEmail@hotmail.com, anotherDumby@gmail.com",Example1 SP19 Remaining Funds,"Hello Example1 Presidents,
 
 I hope you had a relaxing Winter Break!  This is a notification that Example1 currently has $961.17, or 48.30%, remaining in its current 2018-2019 allocation.  Please see the attached PDF of Example1’s spending, and please let me know if there are any discrepancies between your records and mine.
 
@@ -9,8 +9,9 @@ As always, if you have any questions, concerns, comments, or suggestions, please
 Best,
 Max
 
-******this message was sent by a bot - bleep, bloop - please let mmaleno@hmc.edu know if anything went wrong and/or you do not believe you were the intended recipient******"""
-Example2,mmaleno16@gmail.com,Example2 SP19 Remaining Funds,"""Hello Example2 Presidents,
+******this message was sent by a bot - bleep, bloop - please let mmaleno@hmc.edu know if anything went wrong and/or you do not believe you were the intended recipient******"
+
+Example2,"anotherDumby@gmail.com, fakeEmail@hotmail.com",Example2 SP19 Remaining Funds,"Hello Example2 Presidents,
 
 I hope you had a relaxing Winter Break!  This is a notification that Example2 currently has $961.17, or 48.30%, remaining in its current 2018-2019 allocation.  Please see the attached PDF of Example2’s spending, and please let me know if there are any discrepancies between your records and mine.
 
@@ -21,4 +22,4 @@ As always, if you have any questions, concerns, comments, or suggestions, please
 Best,
 Max
 
-******this message was sent by a bot - bleep, bloop - please let mmaleno@hmc.edu know if anything went wrong and/or you do not believe you were the intended recipient******"""
+******this message was sent by a bot - bleep, bloop - please let mmaleno@hmc.edu know if anything went wrong and/or you do not believe you were the intended recipient******"
